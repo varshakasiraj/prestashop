@@ -1,0 +1,27 @@
+#header .header-top {
+    background: black;
+}
+#header .header-top a[data-depth="0"]{
+    color: #FF6C38;
+}
+.product-flags li .product-flag .new{
+ background-color: green;
+}
+.footer-container {
+    background-color: black;
+} 
+.h3 ,#block_myaccount_infos .myaccount-title a, .block-contact-title,
+.block-contact .block-contact-title {
+    color: #BCC62D;
+}
+.product-miniature .product-quantity .stock{
+    margin: 0 auto;
+    color: green;
+}
+.product-miniature .product-quantity .left{
+    margin: 0 auto;
+    color: red;
+}
+.product-flags li .product-flag .out_of_stock{
+    background-color: red;
+}
