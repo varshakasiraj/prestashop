@@ -1,6 +1,6 @@
 <?php
 
-namespace ContainerDx56vml;
+namespace ContainerFlpuxsj;
 
 use Symfony\Component\DependencyInjection\Argument\RewindableGenerator;
 use Symfony\Component\DependencyInjection\ContainerInterface;
@@ -5036,6 +5036,7 @@ class appProdProjectContainer extends Container
                 55 => 'psxmarketingwithgoogle',
                 56 => 'blockreassurance',
                 57 => 'ps_facetedsearch',
+                58 => 'sp_banner',
             ],
             'container.autowiring.strict_mode' => true,
             'container.dumper.inline_class_loader' => false,
