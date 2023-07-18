@@ -18,7 +18,7 @@
 	margin-right:10px;
 }
 .sp_container .sp_wrapper .sp_card .sp_image{
-	margin:15px 15px 0px;
+	margin:15px 35px 0px;
 	width:200px;
 	height:300px;
 	box-shadow: 3px 2px 5px  grey; 
@@ -38,6 +38,20 @@
 	text-transform:uppercase;
 }
 .sp_button{
-    margin: 0 1;
-    background-color:green;
+    margin:  0 100px;
+    background-color: orange;
+	border: none;
+	width: 120px;
+	height: 30px;
+    color:white;
+	border-radius:5px;
+}
+.sp_container .sp_wrapper .one{
+	background-color:rgb(135,99,67);
+}
+.sp_container .sp_wrapper .two{
+	background-color:rgb(124,23,37);
+}
+.sp_container .sp_wrapper .four{
+	background-color:rgb(167,123,60);
 }
